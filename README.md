@@ -1,70 +1,64 @@
-# 🌌 Sayudha Lukita: Frontend Wizard & Digital Alchemist 🌌
+<h2 align="left">Hi 👋! My name is Sayudha and I'm a Web Developer, from Bandung, Indonesia</h2>
 
-  
+###
 
-## 🚀 Greetings, Digital Explorers!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mazayastudio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazayastudio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I'm Sayudha, a visionary Frontend Developer from the vibrant coasts of Indonesia. With over half a decade of conjuring digital marvels, I've become a maestro of the web, turning lines of code into stunning visual symphonies.
+###
 
-  
+<img align="right" height="150" src="https://media1.tenor.com/m/rVVJhiJ7DjoAAAAC/kazuma-konosuba.gif"  />
 
-## 💼 My Professional Tapestry:
+###
 
-- **Current Role:** Frontend Innovator at PT. Krafthaus Indonesia.
-- **Past Ventures:** Spearheading web development projects at PT. Xtremax Technology.
-- **Core Philosophy:** Blending aesthetics with functionality to create web interfaces that not only function flawlessly but also tell a compelling story.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuestorefront/vuestorefront-original.svg" height="30" alt="vuestorefront logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+</div>
 
-  
+###
 
-## 🛠 My Technical Palette:
+<div align="left">
+  <a href="https://www.linkedin.com/in/sayudha-lukita-wibisana/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mazaya.studio@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mazaya.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-```text
-HTML                 ██████████████████ 100% 🌐
-CSS/SCSS             ██████████████████ 100% 💅
-JavaScript           ██████████████████ 100% 🖥️
-React                ███████████░░░░░░░ 70%  ⚛️
-Vue                  █████████████░░░░░ 80%  🖼️
-Webpack 4            ████████████████░░ 90%  📦
-Shopify Theme        ██████████████████ 100% 🛍️
-PHP                  ██████████████████ 100% 📜
-WordPress Theme Dev  ██████████████████ 100% 📚
+###
 
-```
+<br clear="both">
 
-##   
+<img src="https://raw.githubusercontent.com/mazayastudio/mazayastudio/output/snake.svg" alt="Snake animation" />
 
-## 🌟 My Digital Craftsmanship:
-
-- **DSTA Digital Overhaul:** Transformed military tech interfaces using React's robust framework. A seamless blend of high security and intuitive user experience.
-- **SDTS Global Platform:** Engineered an international defence tech summit hub using Vue.js, pioneering innovative features for global collaboration.
-- **PSD Website Reimagining:** Revitalized the Public Service Division's web presence with Vue.js and advanced CSS techniques, setting a new benchmark in public digital engagement.
-- **NHB Cultural Showcase:** Articulated Singapore's heritage through a vibrant and interactive web experience, employing HTML, CSS, and JavaScript to weave a rich cultural narrative.
-- **MCI Digital Strategy:** Orchestrated the Ministry’s communication strategy using React, creating a platform that bridges information with impactful user interaction.
-- **People’s Association Community Portal:** Developed a PHP and WordPress-based community platform, fostering social unity and interactive public involvement.
-- **CEA Regulatory Interface:** Crafted a comprehensive platform for the real estate industry using JavaScript and PHP, enhancing public awareness and industry compliance.
-- **Manchester Warehouse E-commerce Revolution:** Transformed the online shopping experience with Shopify, integrating cutting-edge features for an immersive user journey.
-- **The Bedlinen Co E-commerce Wonderland:** Designed a Shopify-driven shopping paradise, blending aesthetic appeal with a user-friendly shopping interface.
-- CD Power: Designed a Shopify-driven shopping for electrical generator, blending aesthetic appeal with a user-friendly shopping interface.
-
-  
-
-## 🎓 My Academic Expedition:
-
-- **Degree:** Bachelor's in Electrical Engineering, Universitas Islam Negeri Sunan Gunung Djati.
-- **Continued Learning:** Constantly updating my arsenal with the latest in web technologies, design patterns, and development methodologies.
-
-  
-
-## 🌱 Life Beyond the Code:
-
-- **Gamer at Heart:** Delving into the realms of horror and survival games, where I challenge my limits and explore virtual worlds.
-- **Culinary Adventurer:** Exploring the vast landscapes of flavors and cuisines, always on the lookout for the next tantalizing experience.
-- **Tech Enthusiast:** Keenly collecting and experimenting with the latest gadgets, forever curious about the next technological breakthrough.
-
-  
-
-## 📫 Let's Connect & Collaborate:
-
-Embark on a journey of technological innovation with me! For collaborations, tech musings, or just to say hi, email me at [mazaya.studio@outlook.com](mailto:mazaya.studio@outlook.com "mailto:mazaya.studio@outlook.com") or let's connect on [LinkedIn](https://www.linkedin.com/in/sayudha-lukita-wibisana/ "https://www.linkedin.com/in/sayudha-lukita-wibisana/").
-
-* * *
+###
