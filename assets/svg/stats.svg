@@ -54,7 +54,7 @@
   <rect x="0"   y="0" width="196" height="100" class="cell"/>
   <rect x="0"   y="0" width="196" height="2"   class="accent-line"/>
   <g class="cell-a">
-    <text x="24" y="52" class="stat-n">3<tspan class="stat-n-accent">+</tspan></text>
+    <text x="24" y="52" class="stat-n">7<tspan class="stat-n-accent">+</tspan></text>
     <text x="24" y="74" class="stat-l">YEARS ACTIVE</text>
   </g>
 
