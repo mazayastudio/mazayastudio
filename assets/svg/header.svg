@@ -14,7 +14,7 @@
       .sub-text {
         font-family: 'DM Mono', monospace;
         font-size: 11px;
-        fill: #444444;
+        fill: #ffffff;
         letter-spacing: 4px;
       }
       .cursor {
@@ -90,6 +90,6 @@
   </g>
 
   <g class="label-left">
-    <text x="768" y="100" class="sub-text" text-anchor="end" fill="#ff2d2d">MAZAYA.STUDIO</text>
+    <text x="768" y="100" class="sub-text" text-anchor="end" fill="#ffffff">MAZAYA.STUDIO</text>
   </g>
 </svg>
