@@ -91,7 +91,7 @@ const sayudha = {
 — CONTRIBUTION TRAIL
 ```
 
-<img src="./assets/svg/snake-dark.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/mazayastudio/mazayastudio/output/snake.svg" alt="Snake animation" />
 
 <br/>
 
