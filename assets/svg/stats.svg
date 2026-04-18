@@ -9,7 +9,7 @@
         font-family: 'Space Grotesk', 'Arial Black', monospace;
         font-size: 36px;
         font-weight: 700;
-        fill: #f0f0f0;
+        fill: #ffffff;
       }
       .stat-n-accent { fill: #ff2d2d; }
       .stat-l {
