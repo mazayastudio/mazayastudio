@@ -1,0 +1,52 @@
+<svg width="800" height="32" viewBox="0 0 800 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      .track-line { stroke: #1a1a1a; }
+      .ticker-text {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        font-size: 10px;
+        fill: #444444;
+        letter-spacing: 3px;
+      }
+      .ticker-dot { fill: #ff2d2d; }
+      .ticker-group { animation: marquee 22s linear infinite; }
+
+      @keyframes marquee {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-800px); }
+      }
+    </style>
+  </defs>
+
+  <rect width="800" height="32" class="bg"/>
+  <line x1="0" y1="0" x2="800" y2="0" stroke-width="0.5" class="track-line"/>
+  <line x1="0" y1="31" x2="800" y2="31" stroke-width="0.5" class="track-line"/>
+
+  <g class="ticker-group">
+    <text y="20">
+      <tspan class="ticker-text" x="0">
+        <tspan class="ticker-dot">* </tspan>REACT
+        <tspan class="ticker-dot">   * </tspan>THREE.JS
+        <tspan class="ticker-dot">   * </tspan>SHOPIFY
+        <tspan class="ticker-dot">   * </tspan>NODE.JS
+        <tspan class="ticker-dot">   * </tspan>VUE
+        <tspan class="ticker-dot">   * </tspan>SASS
+        <tspan class="ticker-dot">   * </tspan>FIGMA
+        <tspan class="ticker-dot">   * </tspan>WEBFLOW
+        <tspan class="ticker-dot">   * </tspan>WEBPACK
+        <tspan class="ticker-dot">   * </tspan>LINUX
+        <tspan class="ticker-dot">   * </tspan>REACT
+        <tspan class="ticker-dot">   * </tspan>THREE.JS
+        <tspan class="ticker-dot">   * </tspan>SHOPIFY
+        <tspan class="ticker-dot">   * </tspan>NODE.JS
+        <tspan class="ticker-dot">   * </tspan>VUE
+        <tspan class="ticker-dot">   * </tspan>SASS
+        <tspan class="ticker-dot">   * </tspan>FIGMA
+        <tspan class="ticker-dot">   * </tspan>WEBFLOW
+        <tspan class="ticker-dot">   * </tspan>WEBPACK
+        <tspan class="ticker-dot">   * </tspan>LINUX
+      </tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      .label {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        font-size: 10px;
+        fill: #555555;
+        letter-spacing: 2px;
+      }
+      .pct {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        font-size: 10px;
+        fill: #333333;
+        letter-spacing: 1px;
+      }
+      .section-label {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        font-size: 9px;
+        fill: #ff2d2d;
+        letter-spacing: 4px;
+      }
+      .track { fill: #111111; }
+      .fill-bar { fill: #ff2d2d; }
+      .fill-bar-dim { fill: #2a0000; }
+      .divider { stroke: #1a1a1a; }
+
+      .bar-1 { animation: bar-in 1.0s cubic-bezier(.77,0,.175,1) 0.3s both; transform-origin: left center; }
+      .bar-2 { animation: bar-in 1.0s cubic-bezier(.77,0,.175,1) 0.45s both; transform-origin: left center; }
+      .bar-3 { animation: bar-in 1.0s cubic-bezier(.77,0,.175,1) 0.6s both; transform-origin: left center; }
+      .bar-4 { animation: bar-in 1.0s cubic-bezier(.77,0,.175,1) 0.75s both; transform-origin: left center; }
+      .bar-5 { animation: bar-in 1.0s cubic-bezier(.77,0,.175,1) 0.9s both; transform-origin: left center; }
+      .bar-6 { animation: bar-in 1.0s cubic-bezier(.77,0,.175,1) 1.05s both; transform-origin: left center; }
+      .row-reveal { animation: fade-up 0.6s ease 0.2s both; }
+
+      @keyframes bar-in {
+        from { transform: scaleX(0); }
+        to   { transform: scaleX(1); }
+      }
+      @keyframes fade-up {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+
+  <rect width="800" height="220" class="bg"/>
+
+  <text x="32" y="28" class="section-label">— PROFICIENCY</text>
+  <line x1="32" y1="38" x2="768" y2="38" stroke-width="0.5" class="divider"/>
+
+  <g class="row-reveal">
+    <!-- Row headers -->
+    <text x="32"  y="60" class="label">JAVASCRIPT</text>
+    <text x="32"  y="94" class="label">REACT</text>
+    <text x="32"  y="128" class="label">UI / UX</text>
+    <text x="32"  y="162" class="label">SHOPIFY</text>
+    <text x="32"  y="196" class="label">THREE.JS</text>
+
+    <!-- Track backgrounds -->
+    <rect x="160" y="50" width="560" height="3" class="track"/>
+    <rect x="160" y="84" width="560" height="3" class="track"/>
+    <rect x="160" y="118" width="560" height="3" class="track"/>
+    <rect x="160" y="152" width="560" height="3" class="track"/>
+    <rect x="160" y="186" width="560" height="3" class="track"/>
+
+    <!-- Fill bars - JS 92% = 515px -->
+    <rect x="160" y="50" width="515" height="3" class="fill-bar bar-1"/>
+    <!-- React 88% = 493px -->
+    <rect x="160" y="84" width="493" height="3" class="fill-bar bar-2"/>
+    <!-- UI 85% = 476px -->
+    <rect x="160" y="118" width="476" height="3" class="fill-bar bar-3"/>
+    <!-- Shopify 82% = 459px -->
+    <rect x="160" y="152" width="459" height="3" class="fill-bar bar-4"/>
+    <!-- Three.js 75% = 420px -->
+    <rect x="160" y="186" width="420" height="3" class="fill-bar bar-5"/>
+
+    <!-- Percentages -->
+    <text x="736" y="60" class="pct" text-anchor="end">92</text>
+    <text x="736" y="94" class="pct" text-anchor="end">88</text>
+    <text x="736" y="128" class="pct" text-anchor="end">85</text>
+    <text x="736" y="162" class="pct" text-anchor="end">82</text>
+    <text x="736" y="196" class="pct" text-anchor="end">75</text>
+  </g>
+</svg>
