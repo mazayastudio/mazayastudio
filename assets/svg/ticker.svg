@@ -6,10 +6,10 @@
       .ticker-text {
         font-family: 'DM Mono', 'Courier New', monospace;
         font-size: 10px;
-        fill: #444444;
+        fill: #ffffff;
         letter-spacing: 3px;
       }
-      .ticker-dot { fill: #ffffff; }
+      .ticker-dot { fill: #ff2d2d; }
       .ticker-group { animation: marquee 22s linear infinite; }
 
       @keyframes marquee {
