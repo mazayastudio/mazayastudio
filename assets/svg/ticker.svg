@@ -9,7 +9,7 @@
         fill: #444444;
         letter-spacing: 3px;
       }
-      .ticker-dot { fill: #ff2d2d; }
+      .ticker-dot { fill: #ffffff; }
       .ticker-group { animation: marquee 22s linear infinite; }
 
       @keyframes marquee {
