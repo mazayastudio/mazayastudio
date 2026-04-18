@@ -5,13 +5,13 @@
       .label {
         font-family: 'DM Mono', 'Courier New', monospace;
         font-size: 10px;
-        fill: #555555;
+        fill: #ffffff;
         letter-spacing: 2px;
       }
       .pct {
         font-family: 'DM Mono', 'Courier New', monospace;
         font-size: 10px;
-        fill: #333333;
+        fill: #ffffff;
         letter-spacing: 1px;
       }
       .section-label {
