@@ -28,7 +28,7 @@
 const sayudha = {
   name: "Sayudha Lukita Wibisana",
   role: "Full-Stack Web Developer",
-  studio: "Mazaya Studio 🏢",
+  founder: "Mazaya Studio",
   location: "Bandung, Indonesia 🇮🇩",
   
   focus: [
@@ -38,7 +38,7 @@ const sayudha = {
     "Content Systems"
   ],
   
-  currentlyBuilding: "Vibe-coded side projects 🛠️",
+  currentlyBuilding: "Shopify and React projects",
   openTo: "Freelance & Collaboration",
   funFact: "I turn caffeine into clean code ☕"
 };
@@ -63,7 +63,7 @@ const sayudha = {
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
@@ -83,7 +83,7 @@ const sayudha = {
 
 ---
 
-### 📊 Language Stats
+### Language Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazayastudio&locale=en&hide_title=false&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="200" />
@@ -93,7 +93,7 @@ const sayudha = {
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -120,10 +120,10 @@ const sayudha = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazayastudio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
-  <br/><br/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=mazayastudio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" /> -->
+  <!-- <br/><br/> -->
   <!-- Mirror backup: uncomment jika trophy tidak muncul -->
-  <!-- <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mazayastudio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" /> -->
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mazayastudio&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
 </div>
 
 <br/>
