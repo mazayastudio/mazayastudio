@@ -85,16 +85,6 @@ const sayudha = {
 
 <br/>
 
-<!--CONTRIBUTION GRAPH-->
-
-```
-— CONTRIBUTION GRAPH
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mazayastudio&bg_color=0a0a0a&color=333333&line=ff2d2d&point=ff2d2d&area=true&hide_border=true&area_color=1a0000" width="100%"/>
-
-<br/>
-
 <!--SNAKE-->
 
 ```
