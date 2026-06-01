@@ -44,7 +44,7 @@ const sayudha = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mazayastudio&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff2d2d&icon_color=ff2d2d&text_color=555555&include_all_commits=true&count_private=true"/>
+<img src="https://github-stats-extended.vercel.app/api?username=mazayastudio&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff2d2d&icon_color=ff2d2d&text_color=555555&include_all_commits=true&count_private=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazayastudio&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&sideLabels=444444"/>
 
@@ -80,7 +80,7 @@ const sayudha = {
 ```
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazayastudio&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff2d2d&text_color=555555&hide_title=true" width="55%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=mazayastudio&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff2d2d&text_color=555555&hide_title=true" width="55%"/>
 </div>
 
 <br/>
